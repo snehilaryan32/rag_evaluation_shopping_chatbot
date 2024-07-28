@@ -1,0 +1,133 @@
+Prompt ID,Prompt,Ideal Response,Generated Response
+1,Can you recommend a course that covers the basics of web development?,"INFO 6150. Web Design and User Experience Engineering. (4 Hours). This course covers both conceptual and technical aspects of Web design, including user experience design, web standards, best practices, information architecture, usability, and more.","I recommend taking the course ""INFO 502. Introduction to Python for Information Systems"" as it covers the basics of web development. 
+
+Here is a summary of the course:
+- Course: INFO 502. Introduction to Python for Information Systems
+- Description: This course studies the Python programming language for application engineering. Students will obtain proficiency in core Python concepts and skills for building applications using Python libraries. Topics include reading and writing to standard IO, using operators, control flow, functions, file operations, and basic object-oriented programming concepts.
+- Technologies Taught: Python programming language
+- Prerequisites: None
+
+This course will provide you with a solid foundation in programming that can be applied to web development."
+2,I'm interested in learning Python for application engineering. Can you suggest a course?,"INFO 5002. Introduction to Python for Information Systems. (4 Hours). This course studies the Python programming language for application engineering, covering core concepts and skills for building applications using Python.","Based on your interest in learning Python for application engineering, I recommend the course ""INFO 5002. Introduction to Python for Information Systems (4 Hours)."" 
+
+Here is a summary of the course:
+- Description: This course studies the Python programming language for application engineering. It offers hands-on experience to develop proficiency in core Python concepts and skills for building applications using Python libraries. Topics include reading and writing to standard IO, controlling execution flow, using functions, file operations, and basic object-oriented programming.
+- Topics and Technologies: Core Python concepts, reading/writing operations, flow control, functions, file handling, object-oriented programming, Python libraries.
+- Prerequisites: None
+
+This course will provide you with a solid foundation in Python programming specifically tailored for information systems."
+3,What course should I take if I want to understand data science engineering methods and tools?,"INFO 6105. Data Science Engineering Methods and Tools. (4 Hours). This course introduces fundamental techniques for machine learning and data science engineering, including supervised and unsupervised learning, neural networks, and more.","You should consider taking the course INFO 6105 - Data Science Engineering Methods and Tools. 
+
+Summary:
+This course introduces fundamental techniques for machine learning and data science engineering. It covers various machine learning algorithms, their implementation, evaluation, and best practices. The course focuses on deriving learning models from complex data pipelines, both algorithmically and practically, and covers topics such as supervised and unsupervised learning. Real-world case studies are also discussed.
+
+Topics and Technologies:
+- Machine learning algorithms
+- Supervised learning
+- Unsupervised learning
+- Neural networks
+- Deep learning
+- Clustering
+- Dimensionality reduction
+- Recommender systems
+
+Prerequisites:
+INFO 5100 with a minimum grade of B- or CSYE 6200 (may be taken concurrently) with a minimum grade of B-
+
+This course will provide you with a solid foundation in data science engineering methods and tools."
+4,Do you have any courses that focus on business analysis and information engineering?,"INFO 6215. Business Analysis and Information Engineering. (4 Hours). This course covers computer information systems, system development life cycle, system modeling and analysis, and effective leverage of UML for software solutions.","Yes, we have a course that focuses on business analysis and information engineering. The course is **INFO 6215. Business Analysis and Information Engineering**. 
+
+**Summary:**
+This course covers computer information systems and the decision-making process, determination of information requirements, system development life cycle, and system modeling and analysis. It uses a hands-on approach to introduce students to software engineering methodologies and practices, business requirements specification, business process design, model-driven object-oriented design, software development, and maintenance. Emphasis is placed on leveraging the Unified Modeling Language (UML) to transform business issues and objectives into concrete software solutions, with usability and user interface design as critical elements.
+
+**Topics and Technologies Taught:**
+- Computer information systems
+- Decision-making process
+- Information requirements
+- System development life cycle
+- System modeling and analysis
+- Software engineering methodologies
+- Business requirements specification
+- Business process design
+- Model-driven object-oriented design
+- Software development
+- Maintenance
+- Unified Modeling Language (UML)
+
+**Prerequisites:**
+None
+
+Let me know if you need more information about this course or if you would like recommendations for other courses."
+5,Can you suggest a course that teaches neural modeling methods and tools?,"INFO 6106. Neural Modeling Methods and Tools. (4 Hours). This course uses a graph theoretic approach to build models representing dependencies of model components, explaining neural models and how to interact with machines using them.","Sure! I recommend the course INFO 6106 - Neural Modeling Methods and Tools. 
+
+Course Summary:
+INFO 6106 uses a graph theoretic approach to build models representing dependencies of model components without using analytical functions. It discusses neural models, when to use them, and how to interact with machines that use neural models effectively. The course explores how neural models mimic biological brains in building models for prediction.
+
+Topics Covered:
+- Building models using graph theoretic approach
+- Explanation and application of neural models
+- Interaction with machines using neural models
+- Comparison with biological brain models for prediction
+
+Technologies Taught:
+The course focuses on neural modeling methods without specific technology prerequisites.
+
+Prerequisites:
+Prerequisite(s): INFO 6105 with a minimum grade of B."
+6,I'm a beginner with no programming experience. What courses should I start with?,INFO 5002. Introduction to Python for Information Systems. (4 Hours). This hands-on course offers proficiency in Python core concepts and skills for building applications using Python.,"As a beginner with no programming experience, I recommend starting with the following courses to build a strong foundation:
+
+1. **Introduction to Python for Information Systems (INFO 5002)**
+   - **Description:** Studies the Python programming language for application engineering. Covers core concepts of Python, reading and writing files, basic object-oriented programming concepts, and more.
+   - **Topics:** Python programming language, reading and writing files, object-oriented programming concepts.
+   - **Prerequisites:** None
+
+2. **Program Structure and Algorithms (INFO 6205)**
+   - **Description:** Presents data structures and algorithms, covering fundamental data structures like lists, stacks, and trees. Emphasizes data abstraction and encapsulation in code design.
+   - **Topics:** Data structures, algorithms, recursion, searching, and sorting.
+   - **Prerequisites:** None
+
+3. **Application Modeling and Design (INFO 5001)**
+   - **Description:** Explores innovative design and programming techniques to build business applications using the object-oriented paradigm. Focuses on combining UX techniques, business processes, and complex data models.
+   - **Topics:** UX techniques, business processes, object-oriented programming, design principles.
+   - **Prerequisites:** None
+
+These courses will provide you with a solid introduction to programming concepts, Python language, data structures, algorithms, and application design. Feel free to ask if you need more information or have any other questions!"
+7,Are there any courses that cover machine learning algorithms and their implementation?,"INFO 6105. Data Science Engineering Methods and Tools. (4 Hours). This course introduces fundamental techniques for machine learning and data science engineering, including supervised and unsupervised learning, neural networks, and more.","Yes, there is a course that covers machine learning algorithms and their implementation. The course is **INFO 6105: Data Science Engineering Methods and Tools**. Below is a summary of the course:
+
+- **Course**: INFO 6105: Data Science Engineering Methods and Tools
+- **Description**: Introduces fundamental techniques for machine learning and data science engineering. Discusses a variety of machine learning algorithms, along with examples of their implementation, evaluation, and best practices. Topics include supervised learning (parametric/nonparametric algorithms, support vector machines, kernels, neural networks, deep learning) and unsupervised learning (clustering, dimensionality reduction, recommender systems). Based on numerous real-world case studies.
+- **Topics and Technologies Taught**: Machine learning algorithms, supervised learning, unsupervised learning, support vector machines, neural networks, deep learning, clustering, dimensionality reduction, recommender systems.
+- **Prerequisites**: INFO 5100 (may be taken concurrently) with a minimum grade of B- 
+
+This course covers a wide range of machine learning algorithms and their practical implementation, making it suitable for students interested in data science and machine learning."
+8,Can you recommend a course on engineering high-performance coding for fintech?,"INFO 7110. High-Performance Coding for Fintech. (4 Hours). This course covers high-performance computing challenges and solutions in the fintech space using Java, C++, MATLAB, R, and Python.","I recommend taking the course INFO 07110 - High-Performance Coding for Fintech. 
+
+Course Description: 
+This course distills the programming challenges faced by quantitative developers in the fintech space. It covers high-performance computing challenges and their solutions for investment banks, market-making firms, capital management funds, and loan-financing institutions. The course focuses on using object-oriented structures in programming languages such as Java, C++, MATLAB, R, and Python for high-performance computing tasks in areas such as global-macro arbitrage, quantitative equity portfolio management, option pricing and trading, fixed-income securities, and market making.
+
+Topics Covered:
+- High-performance computing challenges in fintech
+- Object-oriented programming structures in Java, C++, MATLAB, R, and Python
+- Applications in global-macro arbitrage, quantitative equity portfolio management, option pricing and trading, fixed-income securities, and market making
+
+Prerequisites:
+INFO 06205 with a minimum grade of B-
+"
+9,Do you offer courses that provide an introduction to the fundamental techniques of web design and user experience?,"INFO 6150. Web Design and User Experience Engineering. (4 Hours). This course covers both conceptual and technical aspects of Web design, including user experience design, web standards, best practices, information architecture, usability, and more.","Yes, we offer a course called ""INFO 5100. Application Engineering and Development"", which provides an introduction to the fundamental techniques of web design and user experience. Here is a summary of the course:
+
+Course: INFO 5100. Application Engineering and Development. (4 Hours)
+Description: Takes students through systematically combining UX techniques, business processes, and complex data models to build user-friendly applications that meet business requirements. Utilizes the object-oriented paradigm, visual user experience, and system design principles to create powerful real-world applications. The course focuses on social-technical software engineering methods and tools to solve real-world problems.
+Topics: Innovative design and programming techniques, user-friendly application development, software construction methods, software program writing.
+Technologies: Object-oriented paradigm, visual user experience design, system design principles.
+Prerequisites: None
+
+This course will provide you with a solid foundation in web design and user experience principles."
+10,What course should I take if I want to learn about advanced big-data applications and indexing techniques?,INFO 7255. Advanced Big-Data Applications and Indexing Techniques. (4 Hours). This course studies advanced indexing techniques and algorithms for big-data platforms such as Hadoop and NoSQL databases.,"The course you should take to learn about advanced big-data applications and indexing techniques is INFO 07255. Here is a summary of the course:
+
+Course: INFO 07255. Advanced Big-Data Applications and Indexing Techniques. (4 Hours)
+
+Description: This course focuses on studying advanced indexing techniques and algorithms for big-data platforms such as Hadoop and NoSQL databases. It covers big-data design and indexing patterns to organize, aggregate, manipulate, and analyze huge amounts of data beyond human scale. Students will learn advanced techniques to improve the performance and robustness of the advanced big-data programming models. The course also touches upon scalable graph databases, advanced indexing, and full-text searching in graph databases.
+
+Topics and Technologies: Advanced indexing techniques, algorithms, big-data platforms (Hadoop, NoSQL databases), big-data design, indexing patterns, scalable graph databases, full-text searching.
+
+Prerequisites: INFO 06220 with a minimum grade of B-, INFO 06205 with a minimum grade of B-, or INFO 06250 with a minimum grade of B-."
